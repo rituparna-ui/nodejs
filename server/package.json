@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "EXPRESS EXPERIMENTS",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rituparna-ui/nodejs.git"
+  },
+  "author": "Rituparna Warwatkar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rituparna-ui/nodejs/issues"
+  },
+  "homepage": "https://github.com/rituparna-ui/nodejs#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
